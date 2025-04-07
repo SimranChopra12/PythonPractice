@@ -11,8 +11,8 @@ Functions, file reading/writing
 Lists, dictionaries, sets, tuples
 
 Exception handling
+pip install pandas
 
-Practice problems on HackerRank / [LeetCode Easy]
 
 🛠️ Practice:
 
@@ -25,3 +25,17 @@ Create a script that reads a list of numbers and returns stats (mean, max, min)
 W3Schools Python Tutorial
 
 Python Replit Course
+
+Day 2: 3rd April
+
+
+🧠 Day 2 Plan: Python for Data + Intro to Snowflake
+🎯 Goals for Today
+Learn pandas for reading and cleaning data.
+
+Perform basic file operations with CSV and JSON.
+
+Set up Snowflake and run your first SQL queries.
+
+Understand how to move clean data between Python and Snowflake.
+
